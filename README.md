@@ -5,6 +5,7 @@ A repository of my daily coding exercises, mini projects, and Python/data analys
 - [Mini Projects](#mini-projects)
 - [Data Analysis](#data-analysis)
 - [Daily Logs](#daily-logs)
+- [DSA]
 ## Python Exercises
 Loops, functions, OOP, and problem-solving tasks.
 
